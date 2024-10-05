@@ -41,4 +41,4 @@ At this stage, there's no code to build or run. However, the setup for cross-com
 
 ## License
 
-This project is licensed under the GNU General Public License (GPL). See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
